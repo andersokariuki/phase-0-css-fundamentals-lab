@@ -9,3 +9,16 @@ body {
 .ss{
   text-align: center;
 }
+.k{
+  text-align: center;
+}
+.t{
+  text-align: center;
+  padding: 40px;
+  font-size: medium;
+  height: 110px;
+  background-color: red;
+  gap: 20px;
+  border-radius: 10px;
+  display: flex;
+}
